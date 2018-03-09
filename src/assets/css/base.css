@@ -1,0 +1,21 @@
+.is-vertical {
+  width: 0;
+}
+
+/* 操作工具栏 */
+.operation-toolbar {
+  margin-bottom: 20px;
+  background-color: #fff;
+  height: 60px;
+  line-height: 60px;
+  padding-left: 20px
+}
+
+/* 筛选工具栏 */
+.filter-toolbar {
+  background-color: #fff;
+  padding-left: 20px;
+  margin-bottom: 20px;
+  height: 60px;
+  padding-top: 10px;
+}
